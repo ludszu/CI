@@ -22,4 +22,10 @@ The input files consist of
 * CME elements for spin combinations UU, DD, UD for bare Coulomb interaction and Keldysh screening
 * quantum numbers specific to the problem of MoS2 QD: valley index and angular momentum
 
-  
+## References
+
+[1] M. Bieniek, L. Szulakowska, and P. Hawrylak, “Effect of valley, spin, and band nesting on the electronic properties of gated quantum dots in a single layer of transition metal dichalcogenides,” Phys. Rev. B, vol. 101, no. 3, p. 035401, Jan. 2020, doi: 10.1103/PhysRevB.101.035401.
+
+[2] L. Szulakowska, M. Cygorek, M. Bieniek, and P. Hawrylak, “Valley- and spin-polarized broken-symmetry states of interacting electrons in gated Mo S 2 quantum dots,” Phys. Rev. B, vol. 102, no. 24, p. 245410, Dec. 2020, doi: 10.1103/PhysRevB.102.245410.
+
+
